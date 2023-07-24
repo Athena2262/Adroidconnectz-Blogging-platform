@@ -1,2 +1,1 @@
-This is a starter blog from [Learn Next.js](https://nextjs.org/learn).
-Happy Hacking!
+Next js is used in building the blogging platform
